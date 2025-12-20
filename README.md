@@ -133,6 +133,4 @@ My profile combines **data analytics**, **Fullstack development**, and **AI inte
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AuthMercy&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
+
