@@ -99,17 +99,6 @@ My profile combines **data analytics**, **Fullstack development**, and **AI inte
 🔹 **ENT Microservices** – Library & grading system (Java, Spring Boot)  
 🔹 **Data Dashboards** – Power BI & Python automation (private / academic)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuthMercy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuthMercy&theme=radical&hide_border=true" />
-</div>
 
 ---
 
