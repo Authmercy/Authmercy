@@ -66,6 +66,8 @@ My profile combines **data analytics**, **Fullstack development**, and **AI inte
 ### Backend
 ![Python](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -78,21 +80,20 @@ My profile combines **data analytics**, **Fullstack development**, and **AI inte
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+- Monitoring & observability with Prometheus and Grafana  
 - CI/CD with Jenkins
-- Agile collaboration (Redmine, Trello)
+- Agile collaboration (Redmine, Jira, Trello)
 - API testing (Postman, Bruno)
 
 ---
 
 ## 🧪 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/AuthMercy/MicroScript_v">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuthMercy&repo=MicroScript_v&theme=radical" />
-  </a>
-</div>
+
 
 🔹 **MicroScript** – Programming language with web IDE (Python, React)  
 🔹 **ENT Microservices** – Library & grading system (Java, Spring Boot)  
