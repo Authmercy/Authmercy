@@ -1,16 +1,138 @@
-## Hi there 👋
+# 👋 Hi, I'm Mercy (Nahsang Mercy Tangham)
 
-<!--
-**Authmercy/Authmercy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Junior Data & AI Engineer | Data Analyst**  
+📍 France | Open to **internships (4–6 months) or work-study programs (12-24 months)**  
+📊 Turning data into insights & intelligent solutions  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I am a **Master’s student in Computer Science (Data & Artificial Intelligence)** with hands-on experience in **data analysis, dashboards, automation, and AI-powered applications**.
+
+My profile combines **data analytics**, **Fullstack development**, and **AI integration**, allowing me to work across the full data lifecycle:  
+**data collection → analysis → visualization → intelligent automation**.
+
+---
+
+## 🧑‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+---
+
+## 📊 Data & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Skills**
+- KPI dashboards & reporting
+- Data cleaning & quality control
+- SQL queries & optimization
+- Reporting automation (Python + SQL)
+- Decision-support analytics
+
+---
+
+## 🤖 AI & Automation
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-0A66C2?style=flat-square)
+
+- NLP & LLM integration
+- Chatbots & intelligent assistants
+- OpenAI API (reports, emails, automation)
+- Machine Learning fundamentals
+
+---
+
+## 🌐 Frontend (for Data Apps & Dashboards)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
+---
+
+## ⚙️ Backend & Databases
+
+### Backend
+![Python](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+- CI/CD with Jenkins
+- Agile collaboration (Redmine, Trello)
+- API testing (Postman, Bruno)
+
+---
+
+## 🧪 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/AuthMercy/MicroScript_v">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AuthMercy&repo=MicroScript_v&theme=radical" />
+  </a>
+</div>
+
+🔹 **MicroScript** – Programming language with web IDE (Python, React)  
+🔹 **ENT Microservices** – Library & grading system (Java, Spring Boot)  
+🔹 **Data Dashboards** – Power BI & Python automation (private / academic)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AuthMercy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuthMercy&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 French — Native
+- 🇬🇧 English — Native
+- 🇩🇪 German — A2
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nahsang-mercy">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nahsangmercytangham@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AuthMercy&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
