@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mercy (Nahsang Mercy Tangham)
 
-🎓 **Junior Software Engineer | Data & AI Engineer**  
-📍 France | Open to **internships (4–6 months) & work-study programs (12–24 months)**  
+🎓 **Junior Data & AI Engineer**  
+📍 France   
 💡 Building **robust applications** and **data-driven solutions**
 
 ---
